@@ -8,7 +8,7 @@ def health():
     return "OK"
 
 
-@app.route("/")
+@app.route("/almafa")
 def hello_world():
     return "Hello, World!!"
 
